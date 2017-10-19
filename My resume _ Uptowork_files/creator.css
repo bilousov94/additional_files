@@ -1,0 +1,198 @@
+.dCol.colorSecLineLightSilver3.colSpecialLineOn .section,.dCol.colorSecLineLightSilver3.colSpecialLineConceptOn .section{border-color:#d5d6d6}
+
+.dCol.colorTxtMediumBlack3 a,.dCol.colorTxtMediumBlack3 a:active,.dCol.colorTxtMediumBlack3 a:hover,.dCol.colorTxtMediumBlack3 a:link,.dCol.colorTxtMediumBlack3 a:visited{color:#343434;text-decoration:none}
+
+
+.dCol.colorBgWhite3.colSpecialBorderOn .section .dates{color:#fff}
+
+.dCol.colorNameLightBlue2 h1{color:#009bdf}
+
+.dCol.colorPositionLightBlue2 h2{color:#009bdf}
+
+.dCol.colorSecTitLightBlue2 h3{color:#009bdf}
+
+.dCol.colorSecPointLightBlue2.colSpecialLineOn .section:not(.secSpecialLineOff) .entry .pointer{background-color:#009bdf}
+
+
+.dCol.colorDateBgLightBlue2.colSpecialBorderOn:after{background-color:#009bdf}
+
+
+.dCol.colorEntIcoBgLightBlue3 .sectionType2.entryIcoOn.entryIcoStyleSquare .entry .ico,.dCol.colorEntIcoBgLightBlue3 .sectionType2.entryIcoOn.entryIcoStyleCircle .entry .ico,.dCol.colorEntIcoBgLightBlue3 .sectionType2.entryIcoOn.entryIcoStyleSquareRound .entry .ico{background-color:#06b4ff}
+
+
+
+.dCol.colorIcoBgLightBlue3.secAccIcoSquare .section h3.title span.ico,.dCol.colorIcoBgLightBlue3.secAccIcoCircle .section h3.title span.ico,.dCol.colorIcoBgLightBlue3.secAccSquare .section h3.title span.ico,.dCol.colorIcoBgLightBlue3.secAccCircle .section h3.title span.ico,.dCol.colorIcoBgLightBlue3.secAccBigSquare .section h3.title span.ico,.dCol.colorIcoBgLightBlue3.secAccBigCircle .section h3.title span.ico{background-color:#06b4ff}
+
+
+.o-icon[data-icon="icoGithub"],#personalCustom .form__icon-selector .icoGithub,#personalForm .form__icon-selector .icoGithub,.custom-fields-template .icoGithub,#sectionsContent .section-content[data-section] [data-ico].icoGithub,.c-iconpicker [data-ico] .icoGithub,.bgIcoGithub,.dCol[class*=colorIco][class*=secAccIco] .section.icoGithub h3.title span.ico,#editEntryModal [data-ico].c-iconpicker__toggle span.icoGithub,.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.icoGithub .ico{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoGithub%22%3E%3Cpath d%3D%22M30.25 11.125c0-2.25-.75-4.125-2.125-5.563.25-.5.938-2.625-.188-5.5 0 0-1.75-.563-5.688 2.125a20.832 20.832 0 0 0-5.25-.688c-1.75 0-3.5.25-5.188.688C7.811-.501 6.123.062 6.123.062c-1.188 2.875-.438 5-.25 5.5C4.56 7 3.748 8.875 3.748 11.125c0 8 4.875 9.75 9.5 10.313-.625.5-1.188 1.438-1.375 2.75-1.188.563-4.188 1.438-6-1.75 0 0-1.125-1.938-3.188-2.125 0 0-2.063 0-.188 1.25 0 0 1.375.688 2.313 3.063 0 0 1.25 3.688 7 2.438.063 1.75.063 4.438.063 4.938h10.313v-6.75c0-1.938-.625-3.188-1.375-3.875 4.625-.5 9.438-2.25 9.438-10.25zM4.125 21.313c-.063.063-.25.125-.375.063s-.25-.25-.188-.313c.063-.125.188-.188.375-.063a.345.345 0 0 1 .188.313zm.813.937c-.063.063-.313 0-.438-.125s-.125-.313-.063-.438a.33.33 0 0 1 .438.125c.125.125.188.313.063.438zm.812 1.188c-.125.063-.313 0-.438-.188s-.125-.438 0-.5c.125-.063.313 0 .438.188s.125.375 0 .5zm1.125 1.125a.33.33 0 0 1-.5-.063c-.188-.188-.25-.375-.125-.5.125-.188.375-.125.5.063.188.125.25.375.125.5zm1.563.687c-.063.188-.313.25-.5.188-.25-.063-.438-.25-.375-.438s.313-.25.563-.188c.188.063.375.25.313.438zm1.25.438c-.25 0-.438-.125-.438-.313s.188-.313.438-.313.438.125.438.313-.188.313-.438.313zm1.625-.188c-.25.063-.438-.063-.5-.25 0-.125.188-.313.438-.375s.438.063.5.25c0 .125-.188.313-.438.375z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoGithub%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoGithub%22 /%3E%3C/svg%3E") !important}
+
+
+
+
+.dCol.colorIcoBlack1[class*=secAccIco] .section h3.title span.ico,.dCol.colorIcoBlack1 .sectionType2 .entryContainer .entry .ico{background-position:0 0}.dCol.colorIcoWhite3[class*=secAccIco] .section h3.title span.ico,.dCol.colorIcoWhite3 .sectionType2 .entryContainer .entry .ico{background-position:0 -200%}
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalAddress .ico,#editEntryModal [data-ico=address].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=address].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoAddress%22%3E%3Cpath d%3D%22M16 0C8.772 0 2.912 5.86 2.912 13.088 2.912 20.428 9.276 25.27 16 32c6.724-6.732 13.088-11.572 13.088-18.912C29.088 5.86 23.228 0 16 0zm0 22.288c-5.302 0-9.602-4.298-9.602-9.602 0-5.302 4.298-9.602 9.602-9.602 5.302 0 9.602 4.298 9.602 9.602s-4.3 9.602-9.602 9.602z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoAddress%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoAddress%22 /%3E%3C/svg%3E")}
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalBirthday .ico,#editEntryModal [data-ico=birthday].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=birthday].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoBirthday%22%3E%3Cpath d%3D%22M29.72 2.214h-2.28v4.642a2.284 2.284 0 0 1-2.28 2.286h-2.28a2.283 2.283 0 0 1-2.28-2.286V2.214h-9.126v4.642a2.284 2.284 0 0 1-2.28 2.286h-2.28a2.283 2.283 0 0 1-2.28-2.286V2.214H2.28A2.284 2.284 0 0 0 0 4.5v25.214A2.284 2.284 0 0 0 2.28 32h27.44c1.26 0 2.28-1.024 2.28-2.286V4.5a2.284 2.284 0 0 0-2.28-2.286zm-2.282 27.5H4.632V11.428h22.806v18.286z%22%2F%3E%3Cpath d%3D%22M14.222 21.268c-.42.994-.728 2.44-.924 3.91h2.486c.082-1.056.24-2.184.478-2.958.298-.994.384-1.54.898-2.35.424-.666 1.274-1.18 1.906-1.752v-2.154H12.14v2.29h4.078c-.91 1.134-1.576 2.02-1.996 3.014zM6.914 0h2.28v6.858h-2.28zm15.964 0h2.28v6.858h-2.28z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoBirthday%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoBirthday%22 /%3E%3C/svg%3E")}
+
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalEmail .ico,#editEntryModal [data-ico=email].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=email].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoEmail%22%3E%3Cpath d%3D%22M32 6c0-1.106-.894-2-2-2H2C.894 4 0 4.894 0 6l16 13L32 6z%22%2F%3E%3Cpath d%3D%22M0 9v17c0 1.106.894 2 2 2h28c1.106 0 2-.894 2-2V8.968L16 22 0 9z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoEmail%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoEmail%22 /%3E%3C/svg%3E")}
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalPhone .ico,#editEntryModal [data-ico=phone].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=phone].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoPhone%22%3E%3Cpath d%3D%22M6.067.655L1.328 5.39C-.696 7.413.196 9.679.196 9.679c2.156 4.733 5.134 9.182 9.03 13.076 3.898 3.893 8.35 6.87 13.087 9.024 0 0 2.195.964 4.293-1.132l4.739-4.736a2.229 2.229 0 0 0 0-3.156l-4.74-4.736a2.233 2.233 0 0 0-3.159 0l-2.665 2.664c-1.837-1.237-3.607-2.619-5.233-4.242-1.627-1.623-3.005-3.391-4.245-5.229l2.665-2.665a2.229 2.229 0 0 0 0-3.157L9.23.655a2.236 2.236 0 0 0-3.162 0z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoPhone%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoPhone%22 /%3E%3C/svg%3E")}
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalWebsite .ico,#editEntryModal [data-ico=website].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=website].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoWebsite%22%3E%3Cpath d%3D%22M31.416 8.995L23.004.584a1.976 1.976 0 0 0-2.804 0L13.198 7.59a1.984 1.984 0 0 0 0 2.805l1.402 1.402 7.006-7.01 5.608 5.606-7.012 7.007 1.404 1.404a1.98 1.98 0 0 0 2.802 0l7.008-7.007a1.974 1.974 0 0 0 0-2.802zM17.4 20.208l-7.006 7.01-5.608-5.61 7.012-7.007-1.404-1.404a1.98 1.98 0 0 0-2.802 0L.584 20.208a1.97 1.97 0 0 0 0 2.798l8.41 8.413a1.983 1.983 0 0 0 2.804 0l7.006-7.01a1.984 1.984 0 0 0 0-2.805L17.4 20.208z%22%2F%3E%3Cpath d%3D%22M10.394 21.608c.774.778 2.03.778 2.804 0l8.41-8.41a1.978 1.978 0 0 0 0-2.803 1.98 1.98 0 0 0-2.802 0l-8.412 8.409a1.98 1.98 0 0 0 0 2.804z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoWebsite%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoWebsite%22 /%3E%3C/svg%3E")}
+
+
+.dCol[class*=colorIco] .section.sectionType2.sectionPersonal.entryIcoOn .entry.personalLinkedin .ico,#editEntryModal [data-ico=linkedin].c-iconpicker .c-iconpicker__toggle span,#editEntryModal [data-ico=linkedin].c-iconpicker .c-iconpicker__col-del div{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoLinkedin%22%3E%3Cpath d%3D%22M7.813 3.936c0 2.175-1.749 3.937-3.906 3.937C1.749 7.873 0 6.111 0 3.936 0 1.762 1.75 0 3.907 0s3.906 1.762 3.906 3.936zm-.571 6.73H.635V32h6.607V10.667zm10.56 0h-6.336V32h6.336V20.801c0-3 1.382-4.785 4.026-4.785 2.43 0 3.598 1.714 3.598 4.785V32H32V18.492c0-5.714-3.24-8.476-7.766-8.476s-6.432 3.524-6.432 3.524v-2.873z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoLinkedin%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoLinkedin%22 /%3E%3C/svg%3E")}
+
+
+.o-icon[data-icon="icoEducation"],#sectionsContent .section-content[data-section=education] [data-ico],.c-iconpicker [data-ico=education] span,.dCol[class*=colorIco] .section.sectionEducation h3.title span.ico{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoEducation%22%3E%3Cpath d%3D%22M30.96 22.58v-9.217l.503-.303c.327-.194.533-.58.537-1 .004-.421-.196-.81-.518-1.014L16.44 1.848a.893.893 0 0 0-.967.004l-14.96 9.21c-.318.202-.515.587-.513 1.005.002.417.203.8.525.998l6.573 3.999a1.256 1.256 0 0 0-.133.56v9.669c0 .325.122.637.335.853.217.22 2.294 2.146 8.646 2.146 6.33 0 8.463-1.82 8.686-2.028a1.21 1.21 0 0 0 .367-.884v-9.917c0-.16-.03-.313-.082-.452l4.044-2.441v8.016c-.593.396-.995 1.124-.995 1.965 0 1.262.895 2.285 2 2.285 1.104 0 1.999-1.023 1.999-2.285 0-.845-.407-1.576-1.005-1.97zM23 26.725c-.787.432-2.866 1.282-7.054 1.282-4.214 0-6.246-.905-6.982-1.34v-8.468l6.493 3.95a.892.892 0 0 0 .937.006L23 18.17v8.556zm-7.06-6.876L3.08 12.045l12.881-7.89 12.922 7.868L15.94 19.85z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoEducation%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoEducation%22 /%3E%3C/svg%3E")}
+
+.o-icon[data-icon="icoExperience"],#sectionsContent .section-content[data-section=experience] [data-ico],.c-iconpicker [data-ico=experience] span,.dCol[class*=colorIco] .section.sectionExperience h3.title span.ico{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoExperience%22%3E%3Cpath d%3D%22M30 5.983h-7.987V4.045c0-1.655-1.345-3-3-3h-6.015c-1.655 0-3 1.345-3 3v1.938H2.001C.9 5.983 0 6.883 0 7.982V28.953c0 1.1.9 2.001 2 2.001h28c1.099 0 2-.9 2-2V7.981a2.008 2.008 0 0 0-2-1.999zM12 4.045c0-.551.447-1 1-1h6.011c.55 0 1 .447 1 1v1.938H12V4.045zM2 7.982h28v7.008H18.986v-1.025c0-1.101-.897-2-1.998-2h-1.993c-1.101 0-2 .897-2 2v1.025H2V7.982zm14.989 11.02h-1.993v-5.037h1.993v5.037zM2 28.951V16.988h10.997V19c0 1.102.897 2 2 2h1.99a2.002 2.002 0 0 0 2-2v-2.01h11.011v11.963H2.001z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoExperience%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoExperience%22 /%3E%3C/svg%3E")}
+
+
+.o-icon[data-icon="icoSkills"],#sectionsContent .section-content[data-section=skills] [data-ico],.c-iconpicker [data-ico=skills] span,.dCol[class*=colorIco] .section.sectionSkills h3.title span.ico{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns%3D%22http://www.w3.org/2000/svg%22 xmlns:xlink%3D%22http://www.w3.org/1999/xlink%22 width%3D%2232%22 height%3D%22128%22 viewbox%3D%220 0 32 128%22%3E%3Cdefs%3E%3Cg id%3D%22icoSkills%22%3E%3Cpath d%3D%22M31.36 14.293l-3.413-3.413c2.133-.64 3.84-2.773 3.84-5.333C31.787 2.56 29.227 0 26.24 0c-2.347 0-4.48 1.707-5.333 3.84l-3.2-3.2c-.854-.853-2.56-.853-3.414 0L9.6 5.333c-.213.427-.213.854-.213 1.28.213.427.64.64 1.066.427h.64c2.134 0 3.84 1.707 3.84 4.053 0 2.134-1.493 4.054-3.84 4.054-2.133 0-4.053-1.92-4.053-4.054v-.64a1.63 1.63 0 0 0-.427-1.066c-.213-.427-.64-.427-.853 0L.64 14.293c-.853.854-.853 2.347 0 3.414L14.293 31.36c.427.427 1.067.64 1.707.64.64 0 1.28-.213 1.707-.64L31.36 17.707c.853-.854.853-2.56 0-3.414zm-1.493 1.92L16.213 29.867c-.213.213-.426.213-.64 0L2.133 16.213c-.213 0-.213-.426 0-.426l3.414-3.414a5.953 5.953 0 0 0 5.76 4.48c3.2 0 5.76-2.56 5.76-5.973 0-2.773-1.707-5.12-4.267-5.76l2.987-2.987c.213-.213.426-.213.64 0l4.906 4.907c.214.213.854.427 1.067.213.427-.213.64-.64.64-1.066v-.214-.213c0-1.92 1.493-3.413 3.413-3.413 1.92 0 3.414 1.493 3.414 3.413 0 1.92-1.494 3.413-3.414 3.413h-.426c-.427 0-.854.214-1.067.64-.213.427-.213.854.213 1.067l4.694 4.907c.213 0 .213.426 0 .426z%22/%3E%3C/g%3E%3C/defs%3E%3Cuse x%3D%220%22 y%3D%220%22 style%3D%22fill:%23000%22 xlink:href%3D%22%23icoSkills%22 /%3E%3Cuse x%3D%220%22 y%3D%2264%22 style%3D%22fill:%23fff%22 xlink:href%3D%22%23icoSkills%22 /%3E%3C/svg%3E")}
+
+
+.page{word-wrap:break-word;overflow-wrap:break-word;word-break:break-word}.page h1,.page h2,.page h3,.page h4,.page h5,.page h6{font-weight:400}.page.fFamilyTitlesAmiri h3{font-family:"Amiri"}.page.fFamilyTxtAmiri{font-family:"Amiri"}.page.fFamilyTitlesArimo h3{font-family:"Arimo"}.page.fFamilyTxtArimo{font-family:"Arimo"}
+
+.page .section .text,.page .section .personalText,.page .section .dates,.page .section h4,.page .section h5,.page .section h6{line-height:1.5em}
+.page .docHeader,.page .docFooter{line-height:1.7em}
+
+.page .section h3{font-size:2.2rem}
+
+.page .section h4:not(.personalTitle){font-size:1.65rem}
+
+
+
+.page .section h5{font-size:1.9rem}
+
+.page .section .text{font-size:1.7rem}
+
+.page .dates{font-size:1.8rem}
+
+
+.page .section .personalText{font-size:1.7rem}
+
+.page.fStyleH1Bold h1 .firstname{font-weight:700;font-style:normal}
+
+.page.fStyleH1LastBold h1 .lastname{font-weight:700;font-style:normal}
+
+.page.fStyleH3Bold h3{font-weight:700;font-style:normal}
+
+
+.page.fStyleH5Bold h5{font-weight:700;font-style:normal}
+
+.page.fStyleDateBold .dates{font-weight:700;font-style:normal}
+
+.page.pagePaddingTop30 .dRow.firstRow .dCol,.page.pagePaddingTop30 .docHeader{padding-top:2rem}.page.pagePaddingTop30.pageNumberDisplayTrue.pageNumberPlacementFalse:not(.pageNumberWithPageTrue) .dRow.firstRow .dCol{padding-top:7.1rem}
+
+.page.pagePaddingRight30 .dRow .dCol:last-of-type,.page.pagePaddingRight30 .pageNumberRow,.page.pagePaddingRight30 .docHeader,.page.pagePaddingRight30 .docFooter{padding-right:3rem}
+
+.page.pagePaddingTop35.pageNumberPlacementFalse .pageNumberRow{padding-top:3.5rem}
+
+
+
+.page.secSpace10 .dRow .dCol .section{padding-top:1rem}
+
+
+
+.page .dRow:first-of-type .dCol .section:first-of-type{padding-top:0}.page .dRow:last-of-type .dCol .section:last-of-type{padding-bottom:0}
+
+
+.page.colSpace20 .dRow .dCol:not(:first-of-type){padding-left:2rem}
+.page.colSpace20 .dRow .dCol:not(:last-of-type){padding-right:2rem}
+
+.sectionType1 h1{font-size:4rem}
+
+.sectionType1 h2{font-size:2.2rem}
+
+.sectionType1 .secType1Container{position:relative;margin-bottom:.5rem}
+
+.sectionType1 .secType1Container h1{margin-top:-.4rem}
+
+.sectionType1 .secType1Container h2{margin-top:.7rem}
+
+
+.sectionType2.secType2StyleCols .entryContainer{margin-top:-.5rem;width:50% !important;display:inline-block !important;vertical-align:top}
+
+.sectionType2.secType2StyleCols .entryContainer .entry{display:inline-block;width:100%}
+
+.sectionType2.secType2StyleCols h3.title+.entryContainer,.sectionType2.secType2StyleCols h3.title+.entryContainer+.entryContainer{margin-top:.2rem}
+
+.sectionType2.entryIcoOn .entry .ico{width:1.6rem;height:1.6rem;margin-right:.8rem;display:inline-block;background-size:100%;background-repeat:repeat-y}
+
+
+.sectionType2.entryIcoOn.entryIcoStyleCircle .entry .ico{width:2rem;height:2rem;border:.4rem solid transparent;border-radius:50%;position:absolute}
+
+
+.sectionType2.entryIcoOn.entryIcoStyleSquareRound .entry .personalText,.sectionType2.entryIcoOn.entryIcoStyleSquare .entry .personalText,.sectionType2.entryIcoOn.entryIcoStyleCircle .entry .personalText{padding-left:2.8rem;margin-top:-.3rem;width:100%}
+
+
+.page .dRow .dCol .section.secTitleOff h3{display:none}
+
+.page .dRow .dCol .section p,.page .dRow .dCol .section ul{margin:0;padding:0}
+
+.page .dRow .dCol .section .entry{position:relative}
+
+.page .dRow .dCol .section .entry+.entry{margin-top:.8rem}
+
+
+.page .dRow .dCol .section.sectionType3 figure{margin:0;border:none}
+
+
+.page .dRow .dCol .section.sectionType3 figure img{width:100%;max-width:33rem;min-width:100px;max-height:60rem;height:auto}.page .section .entry span.normalText{font-weight:400;font-style:normal}
+
+.page .dRow .dCol .section h3.title span.ico,.page .dRow .dCol .section h3.title span.txt{display:inline-block;vertical-align:middle}
+
+.page .dRow .dCol .section h3.title span.ico{background-size:100%;background-repeat:repeat-y}
+
+
+.page .dRow .dCol.secAccIcoSquare .section h3.title span.ico,.page .dRow .dCol.secAccIcoCircle .section h3.title span.ico{top:-0.2rem;width:3.5rem;height:3.5rem;margin-right:1rem;border:.5rem solid transparent}
+
+.page .dRow .dCol.secAccIcoCircle .section h3.title span.ico{border-radius:50%;border-width:.7rem}
+
+
+.page .dRow .dCol.secTitMarginBottom10 .section h3,.page .dRow .dCol.secTitMarginBottom10 .secType1BorderOn{margin-bottom:1rem}
+
+
+.page .dCol.dateStickSeparatorFrom.dateSeparatorDash .dateFrom:after{content:' - '}
+
+.page .dRow .dCol.colSpecialLineOn .section:not(.secSpecialLineOff){border-left-width:.2rem;border-left-style:solid;padding-left:3.3rem;margin-left:2.4rem}
+
+
+.page .dRow .dCol.colSpecialLineOn .section:not(.secSpecialLineOff) .entry .pointer{display:block;width:1rem;height:1rem;position:absolute;top:0;left:-.6rem}
+
+
+.pointer{border-radius:50%;margin-left:-.1rem}
+
+
+.section:not(.secSpecialLineOff) span.ico, span.txt{position:relative;left:-5.2rem}
+
+
+.dCol.colSpecialBorderOn{position:relative;padding-left:18rem !important}.dCol.colSpecialBorderOn:after{content:'';position:absolute;width:17rem;height:100%;left:0;top:0;z-index:0}
+
+.dCol.colSpecialBorderOn .section{margin-left:.7rem}
+.dCol.colSpecialBorderOn .section .dates{position:absolute;left:-17rem;width:15rem;text-align:right;z-index:1}
+
+.dCol.colSpecialBorderOn.colSpecialLineOn .section .dates,.dCol.colSpecialBorderOn.colSpecialLineConceptOn .section .dates{left:-23rem}
+
+
+.eo-zoom-out:before{content:"\e3b4"}*{-webkit-box-sizing:border-box;box-sizing:border-box}
+
+html{font-size:10px;font-family:Arimo, sans-serif}
+
+body{font-size:0; margin: 0}
+
+/*body{font-size:0;background-color:#c0c0c0}*/
+
+h1,h2,h3,h4,h5,h6{margin:0}
+
+.c-document__content,#creatorContent{width:100%;min-height:100%}
+
+.c-document__content .dCol,#creatorContent .dCol{display:inline-block;min-height:inherit;vertical-align:top}
+
+.c-document__content .page,#creatorContent .page{min-height:140rem}
+
+@media screen{.c-document__content .page,#creatorContent .page{background-color:#FFFFFF;-webkit-box-shadow:0 0.5rem 2.5rem 0 rgba(0,0,0,0.25);box-shadow:0 0.5rem 2.5rem 0 rgba(0,0,0,0.25)}}
+
